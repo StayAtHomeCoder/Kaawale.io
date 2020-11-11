@@ -16,6 +16,7 @@ The application is built using:
 - [Meteor-application-template-react](https://github.com/ics-software-engineering/meteor-application-template-react) for component-based UI implementation and 
 routing.
 - [Google Map API]() for the map and data 
+- [GeoJSON](https://geojson.io/#map=2/20.0/0.0) for the map
 
 ## User Guide
 This section provides a walkthrough of our interface and its current capabilities. The screenshots show the current state of the project. 
