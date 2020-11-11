@@ -59,8 +59,8 @@ Devpost Entry: [Ku Ka'awale](https://devpost.com/software/ku-ka-awale)
 ## Developers
 Here are the people who worked on this project:
 
-- Eric Rivera
-- Patima Poochai
-- Pauline Wu
-- Sophia Cruz
-- Victor Jodar
+- Eric Rivera: Find his Github <a href = "https://github.com/eric5rivera">here.</a>
+- Patima Poochai: Find his Github <a href = "https://github.com/patimapoochai">here.</a>
+- Pauline Wu: Find her Github <a href = "https://github.com/Pauline-Peihan-Wu">here.</a>
+- Sophia Cruz: Find her Github <a href = "https://github.com/sophiaelizecruz">here.</a>
+- Victor Jodar: Find her Github <a href = "https://github.com/vjodar">here.</a>
