@@ -7,10 +7,13 @@
 
 ## Overview
 
-Ku Ka'awale is a web application designed to visualize campus occupancy.
+Ku Ka'awale (to stand apart) is a web application designed to visualize campus occupancy. In light of the COVID-19 pandemic, as well as for the eventual transition 
+back into in-person learning, the application is designed to identify patterns of use scheduled and unscheduled patterns of use to improve future scheduling, reduce 
+the spread of COVID-19 on campus, and increase the efficiency of campus scheduling procedures and operations.
 
 The application is built using:
-- [Meteor-application-template-react](https://github.com/ics-software-engineering/meteor-application-template-react)for component-based UI implementation and routing.
+- [Meteor-application-template-react](https://github.com/ics-software-engineering/meteor-application-template-react)for component-based UI implementation and 
+routing.
 - [Google Map API]()for the map and data 
 
 ## User Guide
@@ -23,9 +26,8 @@ This section provides a walkthrough of our interface and its current capabilitie
 more pages...
 
 ## Developer Guide
-1. Download a copy of Ku Ka'awale. You can download either using Github Desktop (recommended
-) or by extracting the .zip. As the repo is currently private, please contact one of the
- developers to get the download.
+1. Download a copy of Ku Ka'awale. You can download either using Github Desktop (recommended) or by extracting the .zip. As the repo is currently private, please 
+contact one of the developers to get the download.
 
 2. Install Meteor, cd into the app/ directory of your local copy of the repo, and install third party libraries with:
 
@@ -55,3 +57,9 @@ Mockups: [Figma](https://www.figma.com/file/jqSCTOCo7MpTyWXJH9Uu4h/MapMock?node-
 
 ## Developers
 Here are the people who worked on this project:
+
+- Eric Rivera
+- Patima Poochai
+- Pauline Wu
+- Sophia Cruz
+- Victor Jodar
