@@ -7,7 +7,7 @@
 
 ## Overview
 
-Ku Ka'awale is a web application designed to tackle the 
+Ku Ka'awale is a web application designed to visualize campus occupancy 
 
 
 ## User Guide 
