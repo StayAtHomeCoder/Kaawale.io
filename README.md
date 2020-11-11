@@ -29,11 +29,11 @@ more pages...
 
 2. Install Meteor, cd into the app/ directory of your local copy of the repo, and install third party libraries with:
 
-```$ meteor npm install```
+``$ meteor npm install``
 
 3. Once the libraries are installed, you can run the application by invoking the “start” script in the package.json file:
 
-```$ meteor npm run start```
+``$ meteor npm run start``
 
 If it all goes well, the application will appear at http://localhost:3000.
 
@@ -41,7 +41,7 @@ If it all goes well, the application will appear at http://localhost:3000.
 
 The application includes a .eslintrc file to define the coding style adhered to in this application. You can invoke ESLint from the command line as follows:
 
-```$ meteor npm run lint```
+``$ meteor npm run lint``
 
 ESLint should run without generating any errors.
 
