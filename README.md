@@ -24,7 +24,7 @@ This section provides a walkthrough of our interface and its current capabilitie
 
 ### Landing Page
 
-more pages...
+Coming Soon...
 
 ## Developer Guide
 1. Download a copy of Ku Ka'awale. You can download either using Github Desktop (recommended) or by extracting the .zip. As the repo is currently private, please 
