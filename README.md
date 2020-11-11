@@ -7,4 +7,4 @@
 
 ## Overview
 
-Kaawale is a web application
+Ku Ka'awale is a web application designed to tackle the 
