@@ -8,8 +8,9 @@
 ## Overview
 
 Ku Ka'awale (to stand apart) is a web application designed to visualize campus occupancy. In light of the COVID-19 pandemic, as well as for the eventual transition 
-back into in-person learning, the application is designed to identify patterns of use scheduled and unscheduled patterns of use to improve future scheduling, reduce 
-the spread of COVID-19 on campus, and increase the efficiency of campus scheduling procedures and operations.
+back into in-person learning, the application is designed to identify patterns of use in buildings across campus through the sampling of the WiFi management and 
+obtaining anonymized data. This project hopes to recognize patterns of campus activities scheduled and unscheduled, to improve future scheduling, reduce the spread 
+of COVID-19 on campus, and increase the efficiency of campus scheduling procedures and operations.
 
 The application is built using:
 - [Meteor-application-template-react](https://github.com/ics-software-engineering/meteor-application-template-react) for component-based UI implementation and 
