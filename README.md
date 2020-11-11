@@ -47,4 +47,7 @@ It’s significantly easier to do development with ESLint integrated directly in
 
 ## Development History
 
+Mockups: [Figma](https://www.figma.com/file/jqSCTOCo7MpTyWXJH9Uu4h/MapMock?node-id=0%3A1)
+
+
 ## Developers
