@@ -12,9 +12,9 @@ back into in-person learning, the application is designed to identify patterns o
 the spread of COVID-19 on campus, and increase the efficiency of campus scheduling procedures and operations.
 
 The application is built using:
-- [Meteor-application-template-react](https://github.com/ics-software-engineering/meteor-application-template-react)for component-based UI implementation and 
+- [Meteor-application-template-react](https://github.com/ics-software-engineering/meteor-application-template-react) for component-based UI implementation and 
 routing.
-- [Google Map API]()for the map and data 
+- [Google Map API]() for the map and data 
 
 ## User Guide
 This section provides a walkthrough of our interface and its current capabilities. The screenshots show the current state of the project. 
