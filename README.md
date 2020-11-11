@@ -22,7 +22,6 @@ routing.
 This section provides a walkthrough of our interface and its current capabilities. The screenshots show the current state of the project. 
 
 
-
 ### Landing Page
 
 more pages...
@@ -56,8 +55,6 @@ It’s significantly easier to do development with ESLint integrated directly in
 Mockups: [Figma](https://www.figma.com/file/jqSCTOCo7MpTyWXJH9Uu4h/MapMock?node-id=0%3A1)
 
 Devpost Entry: [Ku Ka'awale](https://devpost.com/software/ku-ka-awale)
-
-## Community Feedback
 
 ## Developers
 Here are the people who worked on this project:
