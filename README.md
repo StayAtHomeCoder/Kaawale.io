@@ -7,29 +7,31 @@
 
 ## Overview
 
-Ku Ka'awale is a web application designed to visualize campus occupancy 
+Ku Ka'awale is a web application designed to visualize campus occupancy.
+
+The application is built using:
+- [Meteor-application-template-react](https://github.com/ics-software-engineering/meteor-application-template-react)for component-based UI implementation and routing.
+- [Google Map API]()for the map and data 
+
+## User Guide
+This section provides a walkthrough of our interface and its current capabilities. The screenshots show the current state of the project. 
 
 
-## User Guide 
 
+### Landing Page
 
-
+more pages...
 
 ## Developer Guide
+1. Download a copy of Ku Ka'awale. You can download either using Github Desktop (recommended
+) or by extracting the .zip. As the repo is currently private, please contact one of the
+ developers to get the download.
 
-This section provides information of interest to Meteor developers wishing to use this code base as a basis for their own development tasks.
-
-### Installation
-First, install Meteor.
-
-Second, visit the StayAtHomeCoder application GitHub page and click the “Use this template” button to create your own repository initialized with a copy of this 
-application. Alternatively, you can download the sources as a zip file or make a fork of the repo. Then, download a copy of the repo to your local computer.
-
-Third, cd into the app/ directory and install libraries with:
+2. Install Meteor, cd into the app/ directory of your local copy of the repo, and install third party libraries with:
 
 ```$ meteor npm install```
 
-Fourth, run the system with:
+3. Once the libraries are installed, you can run the application by invoking the “start” script in the package.json file:
 
 ```$ meteor npm run start```
 
@@ -49,5 +51,7 @@ It’s significantly easier to do development with ESLint integrated directly in
 
 Mockups: [Figma](https://www.figma.com/file/jqSCTOCo7MpTyWXJH9Uu4h/MapMock?node-id=0%3A1)
 
+## Community Feedback
 
 ## Developers
+Here are the people who worked on this project:
